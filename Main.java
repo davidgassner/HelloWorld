@@ -5,5 +5,10 @@ public class Main {
         System.out.println("hello again!");
         System.out.println("again");
         System.out.println("more");
+
+        System.out.println("Hello World!");
+        System.out.println("hello again!");
+        System.out.println("again");
+        System.out.println("more");
     }
 }
